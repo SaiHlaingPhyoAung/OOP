@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="857d183a-190c-4403-a105-a57bce421f91" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDC_OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L1_AboutOOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L2_Encapsulation/L2_Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L2_Encapsulation/MessengerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L2_Encapsulation/UsingPackage/Messenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L2_Encapsulation/UsingPackage/MessengerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L2_Encapsulation/UsingPackage/MessengerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3_Inheritance/L1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3_Inheritance/L2_Type_Casting/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3_Inheritance/L3_Constructing_Child/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3_Inheritance/L3_Overridind_Method/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3_Inheritance/L4_Single_Parent/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L3_Inheritance/in.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Jok0XrSfVDtShK23N9ZwJIqIFk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.L3_Inheritance.L3_Overridind_Method.Student">
+    <configuration name="L3_Inheritance.L3_Overridind_Method.Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L3_Inheritance.L3_Overridind_Method.Student" />
+      <module name="JDC_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L3_Inheritance.L3_Overridind_Method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L3_Inheritance.L2_Type_Casting.Student" />
+      <module name="JDC_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L3_Inheritance.L2_Type_Casting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.L3_Inheritance.L3_Overridind_Method.Student" />
+        <item itemvalue="Application.Student" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="857d183a-190c-4403-a105-a57bce421f91" name="Changes" comment="" />
+      <created>1672751601520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672751601520</updated>
+    </task>
+    <servers />
+  </component>
+</project>
