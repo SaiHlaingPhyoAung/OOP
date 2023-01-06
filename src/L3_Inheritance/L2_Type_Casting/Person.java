@@ -24,9 +24,9 @@ class Student extends Person{
         //compiler        runtime
         //compiler ka variable type ko kyi
         //runtime ka sub class hte ka kg ko a lod"
+        //Student is a person \but person not student
         //person ka student ma hok loh student ka kg twy ko call loh ma ya
 
-        //Student is a person \but person not student
         //super class ko sub class pyg chin yin type casting tone
         Student ss = (Student) p;
         ss.learn();
