@@ -9,7 +9,7 @@ public class Person {
 }
 
 class Student extends Person{
-
+    String name = "Student";
     void learn(){
         System.out.println("im learning");
     }
@@ -21,6 +21,8 @@ class Student extends Person{
         s.greet();
         s.learn();
         Person pp = s;
+        System.out.println(pp.name);
+
         //compiler        runtime
         //compiler ka variable type ko kyi
         //runtime ka sub class hte ka kg ko a lod"
@@ -28,12 +30,12 @@ class Student extends Person{
         //person ka student ma hok loh student ka kg twy ko call loh ma ya
 
         //super class ko sub class pyg chin yin type casting tone
-        Student ss = (Student) p;
-        ss.learn();
+        //Student ss = (Student) p;
+        //ss.learn();
 
         Person p2 = new Student();
         //error
-        ss = (Student) p2;
+        //ss = (Student) p2;
 
     }
 }

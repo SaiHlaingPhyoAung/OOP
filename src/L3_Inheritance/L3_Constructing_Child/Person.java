@@ -14,7 +14,8 @@ public class Person {
 }
 
 class Student extends Person{
-    //super class yk constructor mr argument pr yin sub class yk constructor mr super ko pyn kaw pay ya ml
+    //super class yk constructor mr argument pr yin sub class yk
+    // constructor mr super ko pyn kaw pay ya ml
     //default constructor so ma kaw ll ya
     Student(String name){
         super(name);
@@ -23,5 +24,11 @@ class Student extends Person{
     //di lo ll pya loh ya
     Student(){
         super("Student");
+    }
+
+    public static void main(String[] args) {
+       Student s = new Student();
+       s.greet();
+
     }
 }

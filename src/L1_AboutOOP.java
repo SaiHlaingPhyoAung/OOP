@@ -14,7 +14,7 @@ public class L1_AboutOOP {
 
     Object
     Object own Properties and Method
-    Object ka memory por mr "new" kaw
+    Object ka memory por mr "new" kaw tai a tit sout
 
     Class
     Class ka Object pai sai tk Properties nk Method ko collect lod p pya pay tk Unit
